@@ -85,10 +85,6 @@ In the `models/` directory, create a `booksModel.js` file with the mock data pro
 In the `routes/` directory, create routes for:
 
 - GET `/books`: Retrieve all books.
-- GET `/books/:id`: Retrieve a book by ID.
-- POST `/books`: Create a new book.
-- PUT `/books/:id`: Update a book.
-- DELETE `/books/:id`: Delete a book.
 - GET `/books/genre/:genre`: Filter books by genre.
 
 ### Implement Controller Logic:
