@@ -16,7 +16,7 @@ book-api/
 │   └── booksModel.js      // Mock data for books
 ├── routes/
 │   └── booksRoutes.js     // API routes for books
-├── app.js                 // Main application file
+├── server.js                 // Main application file
 └── package.json           // Project configuration
 ```
 
